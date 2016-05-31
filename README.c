@@ -4,7 +4,8 @@ prelimactivitynumber2-donotincludeanycode-mnsarias created by GitHub Classroom
 #include <stdlib.h>
 #include <math.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
+![](s2.jpg)
+![](s2.png)
 int main() 
 {
 
