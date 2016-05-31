@@ -4,11 +4,9 @@ prelimactivitynumber2-donotincludeanycode-mnsarias created by GitHub Classroom
 #include <stdlib.h>
 #include <math.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
+,,,
 int main() 
 {
-![](s2.jpg)
-![](s2.png)
 	int choice1, choice2, choice3, loop;
 	float p, V, n, r=0.08206, T;
 	float s, v, a, t, i1, i2;
@@ -180,3 +178,6 @@ int main()
 	getch();
 	return 0;
 }
+,,,
+![](s2.jpg)
+![](s2.png)
